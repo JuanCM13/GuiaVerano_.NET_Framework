@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\bin\Debug\net5.0\CuentaDdl.deps.json
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\bin\Debug\net5.0\CuentaDdl.dll
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\bin\Debug\net5.0\ref\CuentaDdl.dll
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\bin\Debug\net5.0\CuentaDdl.pdb
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.AssemblyInfo.cs
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.dll
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\ref\CuentaDdl.dll
+C:\Users\caand\source\repos\ejercitacionPropiaGuia2022cSharp\CuentaDdl\obj\Debug\net5.0\CuentaDdl.pdb

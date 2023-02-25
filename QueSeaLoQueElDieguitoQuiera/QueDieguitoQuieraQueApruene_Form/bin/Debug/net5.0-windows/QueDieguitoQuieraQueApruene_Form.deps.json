@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "QueDieguitoQuieraQueApruene_Form/1.0.0": {
+        "dependencies": {
+          "QueSeaLoQueElDieguitoQuiera": "1.0.0"
+        },
+        "runtime": {
+          "QueDieguitoQuieraQueApruene_Form.dll": {}
+        }
+      },
+      "QueSeaLoQueElDieguitoQuiera/1.0.0": {
+        "runtime": {
+          "QueSeaLoQueElDieguitoQuiera.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "QueDieguitoQuieraQueApruene_Form/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "QueSeaLoQueElDieguitoQuiera/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

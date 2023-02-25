@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\bin\Debug\EjercicioMascotas.exe.config
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\bin\Debug\EjercicioMascotas.exe
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\bin\Debug\EjercicioMascotas.pdb
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\bin\Debug\Biblioteca.dll
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\bin\Debug\Biblioteca.pdb
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.csproj.CopyComplete
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.exe
+C:\Users\caand\source\repos\EjercicioMascotas\EjercicioMascotas\obj\Debug\EjercicioMascotas.pdb

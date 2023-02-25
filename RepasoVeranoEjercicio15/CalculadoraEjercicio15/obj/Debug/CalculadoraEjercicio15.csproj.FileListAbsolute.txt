@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\bin\Debug\CalculadoraEjercicio15.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\bin\Debug\CalculadoraEjercicio15.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\obj\Debug\CalculadoraEjercicio15.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\obj\Debug\CalculadoraEjercicio15.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\obj\Debug\CalculadoraEjercicio15.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\CalculadoraEjercicio15\obj\Debug\CalculadoraEjercicio15.pdb

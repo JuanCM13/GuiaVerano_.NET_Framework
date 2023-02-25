@@ -1,0 +1,8 @@
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\bin\Debug\EjemploCreacionObjetosClase3.exe.config
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\bin\Debug\EjemploCreacionObjetosClase3.exe
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\bin\Debug\EjemploCreacionObjetosClase3.pdb
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\obj\Debug\EjemploCreacionObjetosClase3.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\obj\Debug\EjemploCreacionObjetosClase3.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\obj\Debug\EjemploCreacionObjetosClase3.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\obj\Debug\EjemploCreacionObjetosClase3.exe
+C:\Users\caand\source\repos\EjemploCreacionObjetosClase3\EjemploCreacionObjetosClase3\obj\Debug\EjemploCreacionObjetosClase3.pdb

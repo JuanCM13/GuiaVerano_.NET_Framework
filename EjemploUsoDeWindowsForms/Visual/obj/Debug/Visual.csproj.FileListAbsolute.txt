@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\bin\Debug\Visual.exe.config
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\bin\Debug\Visual.exe
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\bin\Debug\Visual.pdb
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.PrincipalWindowsForm.resources
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.Properties.Resources.resources
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.csproj.GenerateResource.cache
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.exe
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.pdb
+C:\Users\caand\source\repos\EjemploUsoDeWindowsForms\Visual\obj\Debug\Visual.MensajeForm.resources

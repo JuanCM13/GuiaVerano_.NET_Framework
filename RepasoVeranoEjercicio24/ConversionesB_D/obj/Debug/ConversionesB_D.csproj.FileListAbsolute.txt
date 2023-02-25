@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\obj\Debug\ConversionesB_D.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\obj\Debug\ConversionesB_D.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\bin\Debug\ConversionesB_D.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\bin\Debug\ConversionesB_D.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\obj\Debug\ConversionesB_D.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio24\ConversionesB_D\obj\Debug\ConversionesB_D.pdb

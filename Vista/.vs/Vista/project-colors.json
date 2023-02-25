@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "7adc5cc2-129d-471f-84c9-942a26794f33": {
+      "ProjectGuid": "7adc5cc2-129d-471f-84c9-942a26794f33",
+      "DisplayName": "RepasoVeranoEjercicio23",
+      "ColorIndex": 0
+    },
+    "d95eab87-5754-4a0b-8025-dd5c3ec39949": {
+      "ProjectGuid": "d95eab87-5754-4a0b-8025-dd5c3ec39949",
+      "DisplayName": "Moneda",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

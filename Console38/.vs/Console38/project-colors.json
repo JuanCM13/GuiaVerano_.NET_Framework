@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "9d272ec1-087b-4843-b6ba-1143d9c7da2c": {
+      "ProjectGuid": "9d272ec1-087b-4843-b6ba-1143d9c7da2c",
+      "DisplayName": "Ejercicio38RepasoVerano",
+      "ColorIndex": 0
+    },
+    "a7c92c5a-c0fd-46fe-b25a-45fb7224bf05": {
+      "ProjectGuid": "a7c92c5a-c0fd-46fe-b25a-45fb7224bf05",
+      "DisplayName": "Sobreescrito",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

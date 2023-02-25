@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\bin\Debug\net5.0\EntidadesParcialLabo2Botellas.deps.json
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\bin\Debug\net5.0\EntidadesParcialLabo2Botellas.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\bin\Debug\net5.0\ref\EntidadesParcialLabo2Botellas.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\bin\Debug\net5.0\EntidadesParcialLabo2Botellas.pdb
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.AssemblyInfo.cs
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\ref\EntidadesParcialLabo2Botellas.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Entidades\obj\Debug\net5.0\EntidadesParcialLabo2Botellas.pdb

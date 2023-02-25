@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\bin\Debug\ValidacionesEjercicio12.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\bin\Debug\ValidacionesEjercicio12.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\obj\Debug\ValidacionesEjercicio12.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\obj\Debug\ValidacionesEjercicio12.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\obj\Debug\ValidacionesEjercicio12.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio12\ValidacionesEjercicio12\obj\Debug\ValidacionesEjercicio12.pdb

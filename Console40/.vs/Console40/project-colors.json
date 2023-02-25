@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "67a14196-c1fa-4518-a8ea-b737c991d59d": {
+      "ProjectGuid": "67a14196-c1fa-4518-a8ea-b737c991d59d",
+      "DisplayName": "Ejercicio40RepasoVerano",
+      "ColorIndex": 0
+    },
+    "0c8c24a7-62f9-4061-9877-fec9d49509e1": {
+      "ProjectGuid": "0c8c24a7-62f9-4061-9877-fec9d49509e1",
+      "DisplayName": "CentralitaHerencia",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

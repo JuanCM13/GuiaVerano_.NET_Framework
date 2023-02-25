@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\bin\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.deps.json
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\bin\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\bin\Debug\net5.0\ref\PPL_2021_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\bin\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.pdb
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.AssemblyInfo.cs
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\ref\PPL_2021_Dispositivos_Biblioteca.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\PPL_2021_Dispositivos_Biblioteca\obj\Debug\net5.0\PPL_2021_Dispositivos_Biblioteca.pdb

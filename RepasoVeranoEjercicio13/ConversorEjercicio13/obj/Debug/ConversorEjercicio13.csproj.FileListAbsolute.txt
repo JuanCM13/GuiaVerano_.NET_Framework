@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\bin\Debug\ConversorEjercicio13.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\bin\Debug\ConversorEjercicio13.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\obj\Debug\ConversorEjercicio13.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\obj\Debug\ConversorEjercicio13.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\obj\Debug\ConversorEjercicio13.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio13\ConversorEjercicio13\obj\Debug\ConversorEjercicio13.pdb

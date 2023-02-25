@@ -1,0 +1,8 @@
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\bin\Debug\EjemploClase7ListasYmatrices.exe.config
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\bin\Debug\EjemploClase7ListasYmatrices.exe
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\bin\Debug\EjemploClase7ListasYmatrices.pdb
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\obj\Debug\EjemploClase7ListasYmatrices.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\obj\Debug\EjemploClase7ListasYmatrices.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\obj\Debug\EjemploClase7ListasYmatrices.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\obj\Debug\EjemploClase7ListasYmatrices.exe
+C:\Users\caand\source\repos\EjemploClase7ListasYmatrices\EjemploClase7ListasYmatrices\obj\Debug\EjemploClase7ListasYmatrices.pdb

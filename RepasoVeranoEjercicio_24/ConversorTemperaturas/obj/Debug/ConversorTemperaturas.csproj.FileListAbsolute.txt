@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\bin\Debug\ConversorTemperaturas.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\ConversorTemperaturas\obj\Debug\ConversorTemperaturas.pdb

@@ -1,0 +1,8 @@
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\bin\Debug\RepasoVeranoEjeercicio9.exe.config
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\bin\Debug\RepasoVeranoEjeercicio9.exe
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\bin\Debug\RepasoVeranoEjeercicio9.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\obj\Debug\RepasoVeranoEjeercicio9.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\obj\Debug\RepasoVeranoEjeercicio9.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\obj\Debug\RepasoVeranoEjeercicio9.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\obj\Debug\RepasoVeranoEjeercicio9.exe
+C:\Users\caand\source\repos\RepasoVeranoEjeercicio9\RepasoVeranoEjeercicio9\obj\Debug\RepasoVeranoEjeercicio9.pdb

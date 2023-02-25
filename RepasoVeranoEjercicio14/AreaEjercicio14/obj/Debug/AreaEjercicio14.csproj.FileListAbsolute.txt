@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\bin\Debug\AreaEjercicio14.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\bin\Debug\AreaEjercicio14.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\obj\Debug\AreaEjercicio14.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\obj\Debug\AreaEjercicio14.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\obj\Debug\AreaEjercicio14.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio14\AreaEjercicio14\obj\Debug\AreaEjercicio14.pdb

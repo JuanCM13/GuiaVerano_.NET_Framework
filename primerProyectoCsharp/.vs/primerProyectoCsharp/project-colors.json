@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e634fc52-ac08-4b68-9d89-15b46d82e74e": {
+      "ProjectGuid": "e634fc52-ac08-4b68-9d89-15b46d82e74e",
+      "DisplayName": "primerProyectoCsharp",
+      "ColorIndex": 0
+    },
+    "507ba68a-7ad9-4b03-b007-aad89a279717": {
+      "ProjectGuid": "507ba68a-7ad9-4b03-b007-aad89a279717",
+      "DisplayName": "ClassLibrary1.1.1.2",
+      "ColorIndex": 1
+    },
+    "5f09e8e2-28f1-4f91-8e29-b15d542dfbd4": {
+      "ProjectGuid": "5f09e8e2-28f1-4f91-8e29-b15d542dfbd4",
+      "DisplayName": "Solution Items",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Archivos varios",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 3
+}

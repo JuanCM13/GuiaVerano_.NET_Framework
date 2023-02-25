@@ -1,0 +1,14 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\bin\Debug\VistaEjercicio24.exe.config
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\bin\Debug\VistaEjercicio24.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\bin\Debug\VistaEjercicio24.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\bin\Debug\ConversorTemperaturas.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\bin\Debug\ConversorTemperaturas.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.PrincipalForm.resources
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.Properties.Resources.resources
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.csproj.GenerateResource.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.csproj.CopyComplete
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio_24\VistaEjercicio24\obj\Debug\VistaEjercicio24.pdb

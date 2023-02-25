@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "76325ddc-6da3-42dd-abf3-dd413d241942": {
+      "ProjectGuid": "76325ddc-6da3-42dd-abf3-dd413d241942",
+      "DisplayName": "EjercicioMascotas",
+      "ColorIndex": 0
+    },
+    "74695ab6-3ae7-42a8-a9f2-35e8c6dc1280": {
+      "ProjectGuid": "74695ab6-3ae7-42a8-a9f2-35e8c6dc1280",
+      "DisplayName": "Biblioteca",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

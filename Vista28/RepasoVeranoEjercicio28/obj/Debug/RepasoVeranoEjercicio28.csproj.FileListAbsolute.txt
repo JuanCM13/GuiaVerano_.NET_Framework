@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\bin\Debug\RepasoVeranoEjercicio28.exe.config
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\bin\Debug\RepasoVeranoEjercicio28.exe
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\bin\Debug\RepasoVeranoEjercicio28.pdb
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.Form1.resources
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.Properties.Resources.resources
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.csproj.GenerateResource.cache
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.exe
+C:\Users\caand\source\repos\Vista28\RepasoVeranoEjercicio28\obj\Debug\RepasoVeranoEjercicio28.pdb

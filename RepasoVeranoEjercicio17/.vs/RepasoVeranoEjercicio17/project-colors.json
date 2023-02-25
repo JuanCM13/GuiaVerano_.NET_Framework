@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e656918a-a418-4b68-a537-db8411673332": {
+      "ProjectGuid": "e656918a-a418-4b68-a537-db8411673332",
+      "DisplayName": "RepasoVeranoEjercicio17",
+      "ColorIndex": 0
+    },
+    "5763b506-53c1-469b-a95d-76e55b6b5848": {
+      "ProjectGuid": "5763b506-53c1-469b-a95d-76e55b6b5848",
+      "DisplayName": "Boligrafo",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

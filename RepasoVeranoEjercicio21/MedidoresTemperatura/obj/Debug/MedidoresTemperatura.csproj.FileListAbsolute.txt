@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\bin\Debug\MedidoresTemperatura.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\bin\Debug\MedidoresTemperatura.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\obj\Debug\MedidoresTemperatura.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\obj\Debug\MedidoresTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\obj\Debug\MedidoresTemperatura.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\MedidoresTemperatura\obj\Debug\MedidoresTemperatura.pdb

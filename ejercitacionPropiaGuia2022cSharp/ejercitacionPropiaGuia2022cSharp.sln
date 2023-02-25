@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejer19", "ejer19\ejer19.csproj", "{0490158C-FFD7-4C80-B6FF-05DCDA7C3EC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CuentaDdl", "CuentaDdl\CuentaDdl.csproj", "{63967393-5460-4432-BDAB-B6B0A379E083}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0490158C-FFD7-4C80-B6FF-05DCDA7C3EC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0490158C-FFD7-4C80-B6FF-05DCDA7C3EC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0490158C-FFD7-4C80-B6FF-05DCDA7C3EC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0490158C-FFD7-4C80-B6FF-05DCDA7C3EC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63967393-5460-4432-BDAB-B6B0A379E083}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63967393-5460-4432-BDAB-B6B0A379E083}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63967393-5460-4432-BDAB-B6B0A379E083}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63967393-5460-4432-BDAB-B6B0A379E083}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52BA421A-8A9F-4C32-B197-6A93EFA0B58A}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\bin\Debug\Ejercicio38RepasoVerano.exe.config
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\bin\Debug\Ejercicio38RepasoVerano.exe
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\bin\Debug\Ejercicio38RepasoVerano.pdb
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\bin\Debug\Sobreescrito.dll
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\bin\Debug\Sobreescrito.pdb
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.csproj.CopyComplete
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.exe
+C:\Users\caand\source\repos\Console38\Ejercicio38RepasoVerano\obj\Debug\Ejercicio38RepasoVerano.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e4ebfaa9-6352-4fd9-897f-0b684320ec81": {
+      "ProjectGuid": "e4ebfaa9-6352-4fd9-897f-0b684320ec81",
+      "DisplayName": "RepasoVeranoEjercicio19",
+      "ColorIndex": 0
+    },
+    "d9b51d8c-dd05-4432-85ec-9d663c8865db": {
+      "ProjectGuid": "d9b51d8c-dd05-4432-85ec-9d663c8865db",
+      "DisplayName": "Entidades",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

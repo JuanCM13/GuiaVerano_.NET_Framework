@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\bin\Debug\Ejercicio40RepasoVerano.exe.config
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\bin\Debug\Ejercicio40RepasoVerano.exe
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\bin\Debug\Ejercicio40RepasoVerano.pdb
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\bin\Debug\CentralitaHerencia.dll
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\bin\Debug\CentralitaHerencia.pdb
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.csproj.CopyComplete
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.exe
+C:\Users\caand\source\repos\Console40\Ejercicio40RepasoVerano\obj\Debug\Ejercicio40RepasoVerano.pdb

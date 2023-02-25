@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.AssemblyInfo.cs
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\bin\Debug\net5.0\PPL2_Mascotas_Entidades.deps.json
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\bin\Debug\net5.0\PPL2_Mascotas_Entidades.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\bin\Debug\net5.0\ref\PPL2_Mascotas_Entidades.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\bin\Debug\net5.0\PPL2_Mascotas_Entidades.pdb
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\ref\PPL2_Mascotas_Entidades.dll
+C:\Users\caand\source\repos\Practicas Primer Parcial Labo2, Neiner\Bibliotecas\obj\Debug\net5.0\PPL2_Mascotas_Entidades.pdb

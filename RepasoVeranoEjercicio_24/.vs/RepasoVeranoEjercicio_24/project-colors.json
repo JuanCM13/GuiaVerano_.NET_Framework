@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "362f1a37-05e6-48bd-8154-45a5d4a0a521": {
+      "ProjectGuid": "362f1a37-05e6-48bd-8154-45a5d4a0a521",
+      "DisplayName": "VistaEjercicio24",
+      "ColorIndex": 0
+    },
+    "af119ad7-cdca-47e1-92cb-633a440ba16b": {
+      "ProjectGuid": "af119ad7-cdca-47e1-92cb-633a440ba16b",
+      "DisplayName": "ConversorTemperaturas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

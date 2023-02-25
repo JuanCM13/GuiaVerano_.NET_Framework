@@ -1,0 +1,7 @@
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\bin\Debug\ExplicacionExcepcionesRepasoVerano.exe.config
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\bin\Debug\ExplicacionExcepcionesRepasoVerano.exe
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\bin\Debug\ExplicacionExcepcionesRepasoVerano.pdb
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\obj\Debug\ExplicacionExcepcionesRepasoVerano.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\obj\Debug\ExplicacionExcepcionesRepasoVerano.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\obj\Debug\ExplicacionExcepcionesRepasoVerano.exe
+C:\Users\caand\source\repos\ConsoleExplicacionExcepciones\ExplicacionExcepcionesRepasoVerano\obj\Debug\ExplicacionExcepcionesRepasoVerano.pdb

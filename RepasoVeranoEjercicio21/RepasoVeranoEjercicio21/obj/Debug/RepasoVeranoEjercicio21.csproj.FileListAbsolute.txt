@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\bin\Debug\RepasoVeranoEjercicio21.exe.config
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\bin\Debug\RepasoVeranoEjercicio21.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\bin\Debug\RepasoVeranoEjercicio21.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\bin\Debug\MedidoresTemperatura.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\bin\Debug\MedidoresTemperatura.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.csproj.CopyComplete
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio21\RepasoVeranoEjercicio21\obj\Debug\RepasoVeranoEjercicio21.pdb

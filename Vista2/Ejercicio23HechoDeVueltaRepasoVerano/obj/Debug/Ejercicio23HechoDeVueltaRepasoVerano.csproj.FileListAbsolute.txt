@@ -1,0 +1,14 @@
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\bin\Debug\Ejercicio23HechoDeVueltaRepasoVerano.exe.config
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\bin\Debug\Ejercicio23HechoDeVueltaRepasoVerano.exe
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\bin\Debug\Ejercicio23HechoDeVueltaRepasoVerano.pdb
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.PrincipalForm.resources
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.Properties.Resources.resources
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.csproj.GenerateResource.cache
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.exe
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.pdb
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\bin\Debug\Monedas.dll
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\bin\Debug\Monedas.pdb
+C:\Users\caand\source\repos\Vista2\Ejercicio23HechoDeVueltaRepasoVerano\obj\Debug\Ejercicio23HechoDeVueltaRepasoVerano.csproj.CopyComplete

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "eb415fdc-c367-4fcc-bb27-eaf864f1a36f": {
+      "ProjectGuid": "eb415fdc-c367-4fcc-bb27-eaf864f1a36f",
+      "DisplayName": "WindowsFormCentralita40",
+      "ColorIndex": 0
+    },
+    "6aa23a78-5b5d-4376-bbf5-94d7a2c90729": {
+      "ProjectGuid": "6aa23a78-5b5d-4376-bbf5-94d7a2c90729",
+      "DisplayName": "CentralitaHerencia",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0164bbc6-6dde-4fb8-b371-97eabbbac88d": {
+      "ProjectGuid": "0164bbc6-6dde-4fb8-b371-97eabbbac88d",
+      "DisplayName": "RepasoVeranoEjercicio21",
+      "ColorIndex": 0
+    },
+    "6b36d3d5-ec76-4003-a479-5bd0607a132e": {
+      "ProjectGuid": "6b36d3d5-ec76-4003-a479-5bd0607a132e",
+      "DisplayName": "MedidoresTemperatura",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

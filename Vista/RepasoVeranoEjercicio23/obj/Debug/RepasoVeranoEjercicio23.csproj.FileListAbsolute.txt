@@ -1,0 +1,4 @@
+C:\Users\caand\source\repos\Vista\RepasoVeranoEjercicio23\obj\Debug\RepasoVeranoEjercicio23.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Vista\RepasoVeranoEjercicio23\obj\Debug\RepasoVeranoEjercicio23.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Vista\RepasoVeranoEjercicio23\obj\Debug\RepasoVeranoEjercicio23.FormPrincipal.resources
+C:\Users\caand\source\repos\Vista\RepasoVeranoEjercicio23\obj\Debug\RepasoVeranoEjercicio23.csproj.GenerateResource.cache

@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\bin\Debug\RepasoVeranoEjercicio15.exe.config
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\bin\Debug\RepasoVeranoEjercicio15.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\bin\Debug\RepasoVeranoEjercicio15.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\bin\Debug\CalculadoraEjercicio15.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\bin\Debug\CalculadoraEjercicio15.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.csproj.CopyComplete
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio15\RepasoVeranoEjercicio15\obj\Debug\RepasoVeranoEjercicio15.pdb

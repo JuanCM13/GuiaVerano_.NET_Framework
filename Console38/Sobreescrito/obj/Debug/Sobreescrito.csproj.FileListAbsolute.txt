@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\Console38\Sobreescrito\bin\Debug\Sobreescrito.dll
+C:\Users\caand\source\repos\Console38\Sobreescrito\bin\Debug\Sobreescrito.pdb
+C:\Users\caand\source\repos\Console38\Sobreescrito\obj\Debug\Sobreescrito.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Console38\Sobreescrito\obj\Debug\Sobreescrito.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Console38\Sobreescrito\obj\Debug\Sobreescrito.dll
+C:\Users\caand\source\repos\Console38\Sobreescrito\obj\Debug\Sobreescrito.pdb

@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e470c39b-7972-4966-aab1-678d11ef86b2": {
+      "ProjectGuid": "e470c39b-7972-4966-aab1-678d11ef86b2",
+      "DisplayName": "VistaEjercicio24",
+      "ColorIndex": 0
+    },
+    "413d775a-5f43-4228-8640-066141095e92": {
+      "ProjectGuid": "413d775a-5f43-4228-8640-066141095e92",
+      "DisplayName": "ConversionesB_D",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

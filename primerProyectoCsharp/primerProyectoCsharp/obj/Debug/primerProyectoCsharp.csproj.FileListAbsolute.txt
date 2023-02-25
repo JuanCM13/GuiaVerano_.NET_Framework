@@ -1,0 +1,8 @@
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\bin\Debug\primerProyectoCsharp.exe.config
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\bin\Debug\primerProyectoCsharp.exe
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\bin\Debug\primerProyectoCsharp.pdb
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\obj\Debug\primerProyectoCsharp.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\obj\Debug\primerProyectoCsharp.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\obj\Debug\primerProyectoCsharp.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\obj\Debug\primerProyectoCsharp.exe
+C:\Users\caand\source\repos\primerProyectoCsharp\primerProyectoCsharp\obj\Debug\primerProyectoCsharp.pdb

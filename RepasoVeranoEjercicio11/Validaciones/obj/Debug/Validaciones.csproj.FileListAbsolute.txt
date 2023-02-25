@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\bin\Debug\Validaciones.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\bin\Debug\Validaciones.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\obj\Debug\Validaciones.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\obj\Debug\Validaciones.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\obj\Debug\Validaciones.dll
+C:\Users\caand\source\repos\RepasoVeranoEjercicio11\Validaciones\obj\Debug\Validaciones.pdb

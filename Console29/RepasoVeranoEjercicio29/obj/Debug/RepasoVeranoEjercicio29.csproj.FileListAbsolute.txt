@@ -1,0 +1,11 @@
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\bin\Debug\RepasoVeranoEjercicio29.exe.config
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\bin\Debug\RepasoVeranoEjercicio29.exe
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\bin\Debug\RepasoVeranoEjercicio29.pdb
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\bin\Debug\Entidades.dll
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\bin\Debug\Entidades.pdb
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.csproj.CopyComplete
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.exe
+C:\Users\caand\source\repos\Console29\RepasoVeranoEjercicio29\obj\Debug\RepasoVeranoEjercicio29.pdb

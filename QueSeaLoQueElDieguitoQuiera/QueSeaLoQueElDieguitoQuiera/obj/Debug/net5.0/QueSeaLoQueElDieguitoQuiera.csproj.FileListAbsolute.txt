@@ -1,0 +1,12 @@
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\bin\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.deps.json
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\bin\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.dll
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\bin\Debug\net5.0\ref\QueSeaLoQueElDieguitoQuiera.dll
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\bin\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.pdb
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.AssemblyInfoInputs.cache
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.AssemblyInfo.cs
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.dll
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\ref\QueSeaLoQueElDieguitoQuiera.dll
+C:\Users\caand\source\repos\QueSeaLoQueElDieguitoQuiera\QueSeaLoQueElDieguitoQuiera\obj\Debug\net5.0\QueSeaLoQueElDieguitoQuiera.pdb

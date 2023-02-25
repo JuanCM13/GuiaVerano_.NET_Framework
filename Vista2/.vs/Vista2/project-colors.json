@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ac7918b7-0b11-49a4-9338-b0dc22fc3014": {
+      "ProjectGuid": "ac7918b7-0b11-49a4-9338-b0dc22fc3014",
+      "DisplayName": "Ejercicio23HechoDeVueltaRepasoVerano",
+      "ColorIndex": 0
+    },
+    "4105aed6-2af3-4d2d-9992-f526ced3ecef": {
+      "ProjectGuid": "4105aed6-2af3-4d2d-9992-f526ced3ecef",
+      "DisplayName": "Monedas",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

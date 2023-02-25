@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "2b759bb6-a2bb-4698-8f26-6fa101fc7c39": {
+      "ProjectGuid": "2b759bb6-a2bb-4698-8f26-6fa101fc7c39",
+      "DisplayName": "RepasoVeranoEjercicio15",
+      "ColorIndex": 0
+    },
+    "01d9a7fc-5ff6-4892-b7b4-284a1af23d90": {
+      "ProjectGuid": "01d9a7fc-5ff6-4892-b7b4-284a1af23d90",
+      "DisplayName": "CalculadoraEjercicio15",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

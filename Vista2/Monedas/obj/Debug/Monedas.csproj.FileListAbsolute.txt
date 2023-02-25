@@ -1,0 +1,6 @@
+C:\Users\caand\source\repos\Vista2\Monedas\bin\Debug\Monedas.dll
+C:\Users\caand\source\repos\Vista2\Monedas\bin\Debug\Monedas.pdb
+C:\Users\caand\source\repos\Vista2\Monedas\obj\Debug\Monedas.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\Vista2\Monedas\obj\Debug\Monedas.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\Vista2\Monedas\obj\Debug\Monedas.dll
+C:\Users\caand\source\repos\Vista2\Monedas\obj\Debug\Monedas.pdb

@@ -1,0 +1,1 @@
+﻿public enum TipoComic { Occidental,Oriental}

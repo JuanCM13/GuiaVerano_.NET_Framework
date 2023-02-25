@@ -1,0 +1,8 @@
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\bin\Debug\RepasoVeranoEjercicio2.exe.config
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\bin\Debug\RepasoVeranoEjercicio2.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\bin\Debug\RepasoVeranoEjercicio2.pdb
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\obj\Debug\RepasoVeranoEjercicio2.csproj.AssemblyReference.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\obj\Debug\RepasoVeranoEjercicio2.csproj.SuggestedBindingRedirects.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\obj\Debug\RepasoVeranoEjercicio2.csproj.CoreCompileInputs.cache
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\obj\Debug\RepasoVeranoEjercicio2.exe
+C:\Users\caand\source\repos\RepasoVeranoEjercicio2\RepasoVeranoEjercicio2\obj\Debug\RepasoVeranoEjercicio2.pdb
